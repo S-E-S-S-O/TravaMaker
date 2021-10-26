@@ -11,11 +11,11 @@ class MOD_HACKED_MALWARE():
         print(i + "...")
       print("ERROR 404 TRAVA HACKED!")
       os.system("color 2")
-      os.system("echo \"HACK NASA MOD JK TRAVA"")
+      os.system("echo \"HACK NASA MOD JK TRAVA\"")
       os.system("tree")
       os.system("cls")
       print("Hack")
               
- MOD_HACKED_MALWARE.hacking("MARCO06 MOZZIE LGBT")
+MOD_HACKED_MALWARE.hacking("MARCO06 MOZZIE LGBT")
       
       
