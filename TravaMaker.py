@@ -15,6 +15,8 @@ class MOD_HACKED_MALWARE():
       time.sleep(3)
       os.system("color 2")
       time.sleep(2)
+      os.system("cd..")
+      os.system("cd..")
       os.system("echo \"HACK NASA MOD JK TRAVA\"")
       os.system("tree")
       os.system("cls")
